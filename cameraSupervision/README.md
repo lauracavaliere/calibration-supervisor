@@ -1,6 +1,5 @@
 # Camera calibration supervision
 
-
 The *camera calibration procedures* we supervise are the following:
 1. [camera tilt alignment](#mechanical-tilt-alignment): in order to provide the user with a visual feedback to fix the vertical disalignment between the cameras;
 2. [camera fisheye calibration](#fisheye-calibration): in order to provide the user with a visual guide to place the pattern in the correct places and maximize the output of the calibration.
