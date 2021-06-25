@@ -5,6 +5,9 @@ on:
         paths:
             - 'cameraSupervision/**'
             - 'demoRedBallCalibration/**'
+        paths-ignore:
+            - 'cameraSupervision/README.md'
+            - 'demoRedBallCalibration/README.md'
 
 jobs:
     test:
